@@ -1,4 +1,3 @@
-Okay, I can help you create a README.md file for an AI LinkedIn post generator. Here's a template with sections you can customize:
 # AI LinkedIn Post Generator
 
 
